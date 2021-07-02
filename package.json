@@ -1,0 +1,30 @@
+{
+  "name": "contabilidad",
+  "version": "1.0.0",
+  "description": "Contabilidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run .",
+    "debug": "nodemon run ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProperPeru/contabilidad.git"
+  },
+  "keywords": [
+    "contabilidad"
+  ],
+  "author": "Proper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProperPeru/contabilidad/issues"
+  },
+  "homepage": "https://github.com/ProperPeru/contabilidad#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
